@@ -9,7 +9,8 @@
  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Manas+%F0%9F%91%8B;Math+%2B+Code+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Manas+%F0%9F%91%8B;Math+%2B+Code+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building." alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -34,13 +35,13 @@ class Manas:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cplusplus)
-![Go](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=go)
-![Dart](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=dart)
-![SQL](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite)
-![Bash](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gnubash)
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=python&logoSize=30" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=c&logoSize=30" height="50"/></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cplusplus&logoSize=30" height="50"/></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=go&logoSize=30" height="50"/></a>
+<a href="https://dart.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=dart&logoSize=30" height="50"/></a>
+<a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite&logoSize=30" height="50"/></a>
+<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gnubash&logoSize=30" height="50"/></a>
 
 </div>
 
@@ -48,13 +49,14 @@ class Manas:
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=opencv)
-![NumPy](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=plotly)
-![Streamlit](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=streamlit)
+<a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=tensorflow&logoSize=30" height="50"/></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=scikitlearn&logoSize=30" height="50"/></a>
+<a href="https://opencv.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=opencv&logoSize=30" height="50"/></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=numpy&logoSize=30" height="50"/></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=pandas&logoSize=30" height="50"/></a>
+<a href="https://xgboost.readthedocs.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=xgboost&logoSize=30" height="50"/></a>
+<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=plotly&logoSize=30" height="50"/></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=streamlit&logoSize=30" height="50"/></a>
 
 </div>
 
@@ -62,13 +64,13 @@ class Manas:
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=redis)
-![MongoDB](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite)
-![RabbitMQ](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=rabbitmq)
-![gRPC](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=grpc)
-![Flutter](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=flutter)
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=docker&logoSize=30" height="50"/></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=redis&logoSize=30" height="50"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mongodb&logoSize=30" height="50"/></a>
+<a href="https://www.rabbitmq.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=rabbitmq&logoSize=30" height="50"/></a>
+<a href="https://grpc.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=grpc&logoSize=30" height="50"/></a>
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=flutter&logoSize=30" height="50"/></a>
+<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=firebase&logoSize=30" height="50"/></a>
 
 </div>
 
@@ -76,12 +78,13 @@ class Manas:
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=git)
-![GitLab](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gitlab)
-![Arduino](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=arduino)
-![MATLAB](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mathworks)
-![LaTeX](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=latex)
-![CMake](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cmake)
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=git&logoSize=30" height="50"/></a>
+<a href="https://gitlab.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gitlab&logoSize=30" height="50"/></a>
+<a href="https://www.arduino.cc"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=arduino&logoSize=30" height="50"/></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mathworks&logoSize=30" height="50"/></a>
+<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=latex&logoSize=30" height="50"/></a>
+<a href="https://cmake.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cmake&logoSize=30" height="50"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoSize=30" height="50"/></a>
 
 </div>
 
@@ -126,5 +129,5 @@ class Manas:
 <br/>
 
 <div align="center">
-<sub>There are 10 types of people in the world — those who understand binary, and those who don't.</sub>
+<sub>Talk is cheap. Show me the code. — Linus Torvalds</sub>
 </div>
