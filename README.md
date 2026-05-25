@@ -1,15 +1,25 @@
 <div align="center">
+
+```
+ ███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███████╗
+ ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝
+ ██╔████╔██║███████║██╔██╗ ██║███████║███████╗
+ ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║╚════██║
+ ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+```
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E53935&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Manas+%F0%9F%91%8B;Math+%2B+Code+%2B+ML+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building." alt="Typing SVG" />
 </div>
 
 <br/>
 
-I'm a final-year undergrad at **IIT Kanpur** studying Mathematics & Scientific Computing — someone who genuinely enjoys sitting at the intersection of math, ML, and building things that work in production.
+I'm a recent grad from **IIT Kanpur** (Mathematics & Scientific Computing, '26) — someone who genuinely enjoys sitting at the intersection of math, ML, and dev, building things that work in production.
 
 ```python
 class Manas:
     currently  = "Incoming SDE-1 @ SpeakX"
-    education  = "B.S. Mathematics & Scientific Computing — IIT Kanpur '26"
+    education  = "B.S. Mathematics & Scientific Computing — IIT Kanpur (Graduated May '26)"
     interests  = ["Machine Learning", "Data Science", "Software Engineering",
                   "Computer Vision", "Applied Math", "whatever's cool rn 🚀"]
     ask_me_about = ["ML pipelines", "Go microservices", "ensemble models",
