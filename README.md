@@ -35,13 +35,13 @@ class Manas:
 
 <div align="center">
 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=python&logoSize=30" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=c&logoSize=30" height="50"/></a>
-<a href="https://isocpp.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cplusplus&logoSize=30" height="50"/></a>
-<a href="https://go.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=go&logoSize=30" height="50"/></a>
-<a href="https://dart.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=dart&logoSize=30" height="50"/></a>
-<a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite&logoSize=30" height="50"/></a>
-<a href="https://www.gnu.org/software/bash"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gnubash&logoSize=30" height="50"/></a>
+<a href="https://www.python.org" title="Python"><img src="https://cdn.simpleicons.org/python" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://cdn.simpleicons.org/c" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://isocpp.org" title="C++"><img src="https://cdn.simpleicons.org/cplusplus" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://go.dev" title="Go"><img src="https://cdn.simpleicons.org/go" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://dart.dev" title="Dart"><img src="https://cdn.simpleicons.org/dart" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com" title="SQL"><img src="https://cdn.simpleicons.org/mysql" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash" title="Bash"><img src="https://cdn.simpleicons.org/gnubash" width="45" height="45"/></a>
 
 </div>
 
@@ -49,14 +49,14 @@ class Manas:
 
 <div align="center">
 
-<a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=tensorflow&logoSize=30" height="50"/></a>
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=scikitlearn&logoSize=30" height="50"/></a>
-<a href="https://opencv.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=opencv&logoSize=30" height="50"/></a>
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=numpy&logoSize=30" height="50"/></a>
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=pandas&logoSize=30" height="50"/></a>
-<a href="https://xgboost.readthedocs.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=xgboost&logoSize=30" height="50"/></a>
-<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=plotly&logoSize=30" height="50"/></a>
-<a href="https://streamlit.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=streamlit&logoSize=30" height="50"/></a>
+<a href="https://www.tensorflow.org" title="TensorFlow"><img src="https://cdn.simpleicons.org/tensorflow" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://opencv.org" title="OpenCV"><img src="https://cdn.simpleicons.org/opencv" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://numpy.org" title="NumPy"><img src="https://cdn.simpleicons.org/numpy" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org" title="Pandas"><img src="https://cdn.simpleicons.org/pandas" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://xgboost.readthedocs.io" title="XGBoost"><img src="https://img.shields.io/badge/XGBoost-0d0d0d?style=flat-square&logoColor=white&label=&labelColor=0d0d0d" height="45"/></a>&nbsp;&nbsp;
+<a href="https://lightgbm.readthedocs.io" title="LightGBM"><img src="https://img.shields.io/badge/LightGBM-0d0d0d?style=flat-square&logoColor=white&label=&labelColor=0d0d0d" height="45"/></a>&nbsp;&nbsp;
+<a href="https://streamlit.io" title="Streamlit"><img src="https://cdn.simpleicons.org/streamlit" width="45" height="45"/></a>
 
 </div>
 
@@ -64,13 +64,14 @@ class Manas:
 
 <div align="center">
 
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=docker&logoSize=30" height="50"/></a>
-<a href="https://redis.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=redis&logoSize=30" height="50"/></a>
-<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mongodb&logoSize=30" height="50"/></a>
-<a href="https://www.rabbitmq.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=rabbitmq&logoSize=30" height="50"/></a>
-<a href="https://grpc.io"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=grpc&logoSize=30" height="50"/></a>
-<a href="https://flutter.dev"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=flutter&logoSize=30" height="50"/></a>
-<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=firebase&logoSize=30" height="50"/></a>
+<a href="https://www.docker.com" title="Docker"><img src="https://cdn.simpleicons.org/docker" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://redis.io" title="Redis"><img src="https://cdn.simpleicons.org/redis" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://grpc.io" title="gRPC"><img src="https://cdn.simpleicons.org/grpc" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://flutter.dev" title="Flutter"><img src="https://cdn.simpleicons.org/flutter" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com" title="Firebase"><img src="https://cdn.simpleicons.org/firebase" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite" width="45" height="45"/></a>
 
 </div>
 
@@ -78,17 +79,17 @@ class Manas:
 
 <div align="center">
 
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=git&logoSize=30" height="50"/></a>
-<a href="https://gitlab.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gitlab&logoSize=30" height="50"/></a>
-<a href="https://www.arduino.cc"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=arduino&logoSize=30" height="50"/></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mathworks&logoSize=30" height="50"/></a>
-<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=latex&logoSize=30" height="50"/></a>
-<a href="https://cmake.org"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cmake&logoSize=30" height="50"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoSize=30" height="50"/></a>
+<a href="https://git-scm.com" title="Git"><img src="https://cdn.simpleicons.org/git" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://gitlab.com" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.arduino.cc" title="Arduino"><img src="https://cdn.simpleicons.org/arduino" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.latex-project.org" title="LaTeX"><img src="https://cdn.simpleicons.org/latex" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://cmake.org" title="CMake"><img src="https://cdn.simpleicons.org/cmake" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com" title="VS Code"><img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com" title="Postman"><img src="https://cdn.simpleicons.org/postman" width="45" height="45"/></a>
 
 </div>
 
-<br/>
+
 
 ## 🏆 &nbsp;A couple of things I'm proud of
 
