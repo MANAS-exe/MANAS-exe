@@ -103,12 +103,6 @@ class Manas:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MANAS-exe&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E53935&icon_color=E53935&text_color=cccccc&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANAS-exe&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E53935&text_color=cccccc&langs_count=5" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=MANAS-exe&theme=dark&hide_border=true&background=0d0d0d&ring=E53935&fire=E53935&currStreakLabel=E53935&sideLabels=aaaaaa&dates=666666" />
 
 </div>
@@ -119,11 +113,11 @@ class Manas:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=E53935)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=E53935)](https://linkedin.com/in/manas-kumar-ab309124b/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=E53935)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=E53935)](https://manas-exe.github.io/manas_portfolio.github.io/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=E53935)](mailto:manask22@iitk.ac.in)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=E53935)](mailto:iammanas92@gmail.com)
 
 </div>
 
