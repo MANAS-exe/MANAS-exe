@@ -84,8 +84,7 @@ class Manas:
 <a href="https://www.arduino.cc" title="Arduino"><img src="https://cdn.simpleicons.org/arduino" width="45" height="45"/></a>&nbsp;&nbsp;
 <a href="https://www.latex-project.org" title="LaTeX"><img src="https://cdn.simpleicons.org/latex" width="45" height="45"/></a>&nbsp;&nbsp;
 <a href="https://cmake.org" title="CMake"><img src="https://cdn.simpleicons.org/cmake" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com" title="VS Code"><img src="https://cdn.simpleicons.org/visualstudiocode" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.postman.com" title="Postman"><img src="https://cdn.simpleicons.org/postman" width="45" height="45"/></a>
+
 
 </div>
 
