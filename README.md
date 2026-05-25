@@ -28,25 +28,60 @@ class Manas:
 
 <br/>
 
-## 🛠 &nbsp;Tech I Work With
+## 🛠 &nbsp;Tech Stack
+
+**Languages**
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E53935)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=E53935)
-![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=E53935)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=E53935)
+![Python](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cplusplus)
+![Go](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=go)
+![Dart](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=dart)
+![SQL](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite)
+![Bash](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gnubash)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=E53935)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=E53935)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=xgboost&logoColor=E53935)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=E53935)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=E53935)
+</div>
 
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=E53935)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=E53935)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=E53935)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E53935)
+**ML / AI / Data Science**
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=plotly)
+![Streamlit](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=streamlit)
+
+</div>
+
+**Backend & Infrastructure**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=docker)
+![Redis](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=redis)
+![MongoDB](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=sqlite)
+![RabbitMQ](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=rabbitmq)
+![gRPC](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=grpc)
+![Flutter](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=flutter)
+
+</div>
+
+**Dev Tools**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=gitlab)
+![Arduino](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=arduino)
+![MATLAB](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=mathworks)
+![LaTeX](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=latex)
+![CMake](https://img.shields.io/badge/-0d0d0d?style=for-the-badge&logo=cmake)
 
 </div>
 
